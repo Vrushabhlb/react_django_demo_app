@@ -1,6 +1,6 @@
 Project 1: Implementations.
  Jenkins CI/CD pipeline with GitHub webhook integration for Deploying Docker application on EC2 instances using the declarative pipeline.
-Follow the steps:
+Follow the below steps:
 1.     First of all, go to AWS portal, and create a new instance. As,
 ·       Name: jenkins-server
 ·       AMI: ubuntu.
