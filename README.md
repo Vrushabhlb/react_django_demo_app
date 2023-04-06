@@ -122,7 +122,7 @@ Content Type: application/json
 Which event would you like to trigger this webhook?
 o  Just the push event.
 Active: True
-Click on “Add Webhook”.
+Click on “Add Webhook”...
 No alt text provided for this image
  
 31.  Now, Save the configured project.
